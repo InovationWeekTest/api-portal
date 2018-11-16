@@ -167,6 +167,7 @@ paths:
       schema:
         type: string
   /api/v1/data/sets:
+    summary: Test Summary
     get:
       summary: Get data sets.
       description: Return all visible data sets.
